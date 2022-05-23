@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deta. Redux. FastApi. Lodash. So many front end libraries I can't even start to list them.**
 
-- Last Project I worked on: [Quote Battler](https://kylehgc.github.io/quote-battler/)
+- Last Project I worked on: [CBTree](https://kylehgc.github.io/CBTree)
 
 - 💬 Ask me about **React. Different use cases of context api vs redux. JavaScript. Chakra UI. How long my dog can dance for.**
 
