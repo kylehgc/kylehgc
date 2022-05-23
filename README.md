@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kyle Christensen</h1>
 <h3 align="center">A fatally curious full stack developer from Canada</h3>
 
-- 🔭 I’m currently working on [Yarn Inc Template Generator](https://github.com/kylehgc/yarn-inc/)
+- 🔭 I’m currently working on my portfolio
 
-- 🌱 I’m currently learning **Deta. Redux. FastApi. Lodash. So many front end libraries I can't even start to list them.**
+- 🌱 I’m currently learning **NextJS, Canvas, framer motion** 
 
 - Last Project I worked on: [CBTree](https://kylehgc.github.io/CBTree)
 
-- 💬 Ask me about **React. Different use cases of context api vs redux. JavaScript. Chakra UI. How long my dog can dance for.**
+- 💬 Ask me about **How TypeScript will change your life.  React design patterns. Restful API best practices. How long my dog can dance for.**
 
 - 📫 How to reach me **kylehgc@gmail.com**
 
